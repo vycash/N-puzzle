@@ -1,4 +1,0 @@
-Main-Class: vue.MainVue
-Class-Path: .
-
-
