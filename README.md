@@ -48,9 +48,8 @@ To run the JAR file for this project, follow these steps:
 3. **Run the JAR file using the following command:**
    ```bash
    java -jar Taquin.jar
-   ``
    
-#Bienvenue en jeu de taquin.
+# Bienvenue en jeu de taquin.
 
 pour jouer en mode terminal placer vous dans le repertoire src et executer
 le script "script.sh"
@@ -92,7 +91,7 @@ Pour exécuter le fichier JAR de ce projet, suivez ces étapes :
 3. **Exécutez le fichier JAR en utilisant la commande suivante :**
    ```bash
    java -jar Taquin.jar
-   ```
+
 
 
 
