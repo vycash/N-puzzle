@@ -1,7 +1,7 @@
 
 
 
-#Welcome to the N-puzzle Game.
+# Welcome to the N-puzzle Game.
 
 to play in terminal mode place yourself in the src directory and execute
 the script "script.sh"
@@ -81,7 +81,7 @@ case vide à sa place
 --si vous appuyez sur la droite le jeu va déplacer la case à droite de la
 case vide à sa place
 
-#### Exécution du JAR
+### Exécution du JAR
 
 Pour exécuter le fichier JAR de ce projet, suivez ces étapes :
 
